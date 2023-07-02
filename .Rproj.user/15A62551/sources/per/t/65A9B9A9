@@ -1,0 +1,28 @@
+{
+    "id": "65A9B9A9",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1687902453593.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "id": "ef4ff3d8a73648cfa6683866d96c1482",
+        "name": "figura",
+        "title": "figura",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1687902453593,
+    "read_only": false,
+    "read_only_alternatives": []
+}
